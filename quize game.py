@@ -8,17 +8,17 @@ if question.lower() != "yes":
 else:
     print('lets play :) ')
 
-question = input("Write the name of GOD? ")
+question = input("where is Ethiopia located? ")
 
-if question.lower() == "jesus":
+if question.lower() == "africa":
     print('Correct!')
     score += 1
 else:
     print("Incorrect")
 
-question = input("By whose name the bible tell us to baptize? ")
+question = input("what language does ethiopians use? ")
 
-if question.lower() == "jesus":
+if question.lower() == "amharic":
     print('Correct!')
     score += 1
 else:
